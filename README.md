@@ -1,4 +1,4 @@
-# Classic Models Analysis 
+# Product Sales Analysis 
 [Dashboard](https://app.powerbi.com/links/qibClTPDnQ?ctid=5f86736b-ef43-4992-9624-06dc6eeaf097&pbi_source=linkShare)
 
 ## Methods and Tools used
